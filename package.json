@@ -1,0 +1,22 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranciscoGianoli/FullStack.git"
+  },
+  "author": "FranciscoGianoli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranciscoGianoli/FullStack/issues"
+  },
+  "homepage": "https://github.com/FranciscoGianoli/FullStack#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
