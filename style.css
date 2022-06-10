@@ -1,0 +1,76 @@
+body{background-color: rgb(131, 221, 224, 0.1);
+    background-image: url('https://i.fonts2u.com/gr/grande-maradona_4.png');
+   background-repeat: no-repeat;
+    margin: 5%;
+}
+
+.color1{
+    background-color: aquamarine;
+
+}
+
+h2{
+    font-family: monospace;
+    }
+
+ h1{
+width: 90vw;
+background-image:url('https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg');
+background-size: 90vw 180px;
+color:black;
+font-size: 10vw;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style:italic;
+text-align: center;
+text-shadow: 7px 7px 7px yellow;
+border: double;
+margin-top: 15%;
+border-right: 1px ;
+border-left: 1px ;
+border-color :black;
+}
+
+.contenedor{
+    width:90vw;
+    height: 20vh;
+    background-color: whitesmoke;
+    display: flex;
+    flex-flow: row nowrap; /*flex-firection: row & flex-wrap: wrap*/
+    justify-content:space-around;
+    align-items:baseline;
+}
+
+.item{
+    background-color:rgb(62, 201, 201);
+    width: 25%;
+    height: 100%;
+}
+
+.itemB{
+    background-color:rgb(62, 201, 201);
+    width: 25%;
+    height: 100%;
+}
+
+.itemC{
+    background-color:rgb(62, 201, 201);
+    width: 25%;
+    height: 100%;
+}
+
+img{
+    border-radius: 5px;
+    width: 35%;
+    border-color: black;
+}
+
+.primerDato{
+}
+
+.segundoDato{
+    padding-top: 5%;
+}
+
+
+
+
